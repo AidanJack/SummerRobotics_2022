@@ -1,7 +1,7 @@
 ## SummerRobotics_2022
 
 #### Project Description
-In this robotics project we aim to design and build a fully functioning autonomous vehical with the capability to map its environment such that it can then search 
+In this robotics project we aim to design and build a fully functioning autonomous vehical with the capability to map its environment such that it can then search said environment for particular objects.
 
 #### Project Collaborators
 | Name | Program | School | 
